@@ -913,6 +913,9 @@ body {
 
 .selling-book {
   background-color: #edebe4;
+  background-image: url("./../img/group3.svg");
+  background-repeat: no-repeat;
+  background-position: right top;
 }
 
 .selling-book__wrap {
